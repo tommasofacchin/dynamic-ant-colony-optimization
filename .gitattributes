@@ -1,0 +1,6 @@
+*.meta linguist-generated=true
+*.unity linguist-generated=true
+*.prefab linguist-generated=true
+*.mat linguist-generated=true
+*.shader linguist-generated=true
+
